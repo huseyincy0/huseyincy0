@@ -1,6 +1,6 @@
 ### 🚀 Hey! I'm **Hüseyin Çayır**  
 
-![Profile Banner](https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg)
+![Profile Banner](https://unsplash.com/photos/plasma-ball-with-energy-rays-on-dark-background-physic-model-of-plasma-sphere-dUZbcc5YDf0)
 
 👋 **Merhaba! Ben Hüseyin**, bir yazılım geliştirici, 
 teknoloji meraklısı ve girişimciyim. 
