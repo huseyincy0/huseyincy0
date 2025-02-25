@@ -33,7 +33,7 @@ Benim kullandığım bazı teknoloji ve araçlar:
 ---
 
 ## 🌍 Beni Nerelerde Bulabilirsiniz? 
-💼 **LinkedIn:** [Hüseyin Çayır](www.linkedin.com/in/huseyincy0)  
+💼 **LinkedIn:** [Hüseyin Çayır](https://www.linkedin.com/in/huseyincy0/)  
 📷 **Instagram:** [@huseyincy0](https://www.instagram.com/huseyin.cy0/)  
 📺 **YouTube:** [Hüseyin Çayır]()  
 📩 **E-posta:** huseyincayir00@gmail.com  
